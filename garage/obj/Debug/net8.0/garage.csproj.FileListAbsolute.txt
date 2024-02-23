@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\garage\garage\bin\Debug\net8.0\garage.exe
+C:\Users\aleja\source\repos\garage\garage\bin\Debug\net8.0\garage.deps.json
+C:\Users\aleja\source\repos\garage\garage\bin\Debug\net8.0\garage.runtimeconfig.json
+C:\Users\aleja\source\repos\garage\garage\bin\Debug\net8.0\garage.dll
+C:\Users\aleja\source\repos\garage\garage\bin\Debug\net8.0\garage.pdb
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.AssemblyInfo.cs
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.dll
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\refint\garage.dll
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.pdb
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\garage.genruntimeconfig.cache
+C:\Users\aleja\source\repos\garage\garage\obj\Debug\net8.0\ref\garage.dll
